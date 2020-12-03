@@ -10,14 +10,16 @@ body {
     margin: 0 auto;
     min-height: 1220px;
     background-image: url('../afbeelding/LetItBe_0.jpg');
+    background-repeat: no-repeat;
     color: white;
     padding-top: 152px;
 }
 .beatle .naam {
-    /* opacity: 0; */
+     opacity: 0; 
+     text-shadow: 0 0 3px black;
 }
 .beatle {
-    background-color: rgba(255, 0, 0, 0.8);
+    /* background-color: rgba(255, 0, 0, 0.8); */
     width: 200px;
     cursor: pointer;
 }
@@ -31,7 +33,30 @@ body {
     padding-bottom: 10px ;
 }
 #john .naam {
-    padding-left: 98px;
+    margin-left: 98px;
+}
+#paul {
+    margin-left: 605px;
+    margin-top: -470px;
+    padding-top: 405px;
+    padding-right: 252px;
+    padding-left: 15px;
+    padding-bottom: 9px;
+}
+#ringo {
+    margin-left: 116px;
+    margin-top: 10px;
+    padding-top: 10px;
+    padding-left: 275px;
+    padding-bottom: 405px; 
+}
+#ringo .naam {
+    margin-left: 98px;
+}
+#george {
+    margin-left: 605px;
+    margin-top: -470px;
+    padding: 10px 252px 405px 15px;
 }
 h3, p {
     margin: 0;
