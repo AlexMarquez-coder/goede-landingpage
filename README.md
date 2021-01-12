@@ -4,3 +4,4 @@
 #### Les 3: http://26305.hosts2.ma-cloud.nl/f1m2ontwerp/Thebeatles/index.html
 #### Les 4:
 #### Les 5: http://26305.hosts2.ma-cloud.nl/f1m2ontwerp/materiaal-oefening-menu/index.html
+#### Les 6: http://26305.hosts2.ma-cloud.nl/f1m2ontwerp/materiaal-voor-Bootstrap-grid-training/index.html
